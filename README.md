@@ -1,4 +1,4 @@
-# Проект e-commerce: вариант 1 
+# Проект e-commerce: [вариант 1](https://github.com/andreymkv/projects/blob/main/Makarov_project.ipynb)
 
 ### Продакт-менеджер Василий попросил вас проанализировать совершенные покупки и ответить на следующие вопросы:
 
