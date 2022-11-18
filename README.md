@@ -11,6 +11,6 @@
 2) подобрать API c помощью которых можно провести распознавание, провести распознавание
 3) обучить собственный алгоритм, которые распознает ФИО с паспорта
 
-Для решения данной задачи использовался OCR-tesseract и OCR.space API
+Для решения данной задачи использовался OCR-tesseract и OCR.space API.
 
-[ссылка на ноутбук colab](https://colab.research.google.com/drive/1rYZEGb1BEqCNPkRSZ_7jKhwg8p7n71mf?usp=sharing) с решением задачи
+[Ссылка на ноутбук colab](https://colab.research.google.com/drive/1rYZEGb1BEqCNPkRSZ_7jKhwg8p7n71mf?usp=sharing) с решением задачи
